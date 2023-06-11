@@ -28,5 +28,15 @@ The trained model was used to predict the cryptocurrency prices for the next 952
 **Results**
 After training and tuning the model, we were able to obtain a forecast of the cryptocurrency prices for the next 952 days.
 
+
+
+**OUTCOME**
+
+**Ranked** 🎖️#10 amongs 43 teams
+
+**Evaluation Metric** Metric Mean Absolute Error (MAE)
+
+**Scored** 0.17735 in private leaderboard
+
 ![image](https://github.com/bright-arparwut/Hackathon-Online-Cryptocurrency-Prediction/assets/124503010/c55bbcf9-4fa9-4721-b779-44406dade1cf)
 
